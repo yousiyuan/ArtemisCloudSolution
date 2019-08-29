@@ -1,0 +1,140 @@
+rabbit:
+  addresses: 192.168.1.251:5672
+  virtual-host: /artemis
+  user-name: admin
+  password: admin
+
+
+  exchange-map:
+    order-service:
+      exchange-name: artemis_order_service_exchange
+      exchange-type: fanout
+      exchange-durable: true
+      exchange-autoDelete: false
+      exchange-arguments: {}
+#        alternate-exchange: order-ae
+#        internal: false
+    user-service:
+      exchange-name: artemis_user_service_exchange
+      exchange-type: direct
+      exchange-durable: true
+      exchange-autoDelete: false
+      exchange-arguments: {}
+#        alternate-exchange: user-ae
+#        internal: false
+    goods-service:
+      exchange-name: artemis_goods_service_exchange
+      exchange-type: direct
+      exchange-durable: true
+      exchange-autoDelete: false
+      exchange-arguments: {}
+#        alternate-exchange: user-ae
+#        internal: false
+
+
+  binding-map:
+    order-service-to-user-service:
+      destination: artemis_user_service_queue
+      destination-type: QUEUE
+      exchange: artemis_order_service_exchange
+      routing-key-list: #[]
+        - query
+        - list
+        - insert
+        - update
+        - delete
+      bind-arguments: {}
+#        x-bind-arg1: test1
+#        x-bind-arg2: test2
+    order-service-to-goods-service:
+      destination: artemis_goods_service_queue
+      destination-type: QUEUE
+      exchange: artemis_order_service_exchange
+      routing-key-list: #[]
+        - query
+        - list
+      bind-arguments: {}
+#        x-bind-arg1: test1
+#        x-bind-arg2: test2
+    user-service-to-order-service:
+      destination: artemis_order_service_queue
+      destination-type: QUEUE
+      exchange: artemis_user_service_exchange
+      routing-key-list: #[]
+        - query
+        - list
+        - delete
+      bind-arguments: {}
+#        x-bind-arg1: test1
+#        x-bind-arg2: test2
+    user-service-to-goods-service:
+      destination: artemis_goods_service_queue
+      destination-type: QUEUE
+      exchange: artemis_user_service_exchange
+      routing-key-list: #[]
+        - query
+        - list
+        - insert
+      bind-arguments: {}
+#        x-bind-arg1: test1
+#        x-bind-arg2: test2
+    goods-service-to-order-service:
+      destination: artemis_order_service_queue
+      destination-type: QUEUE
+      exchange: artemis_goods_service_exchange
+      routing-key-list: #[]
+        - query
+        - list
+        - update
+      bind-arguments: {}
+#        x-bind-arg1: test1
+#        x-bind-arg2: test2
+    goods-service-to-user-service:
+      destination: artemis_user_service_queue
+      destination-type: QUEUE
+      exchange: artemis_goods_service_exchange
+      routing-key-list: #[]
+        - query
+        - list
+        - insert
+        - update
+        - delete
+      bind-arguments: {}
+#        x-bind-arg1: test1
+#        x-bind-arg2: test2
+
+
+  queue-map:
+    order-service:
+      queue-name: artemis_order_service_queue
+      queue-durable: true
+      queue-exclusive: false
+      queue-autoDelete: false
+      delegateClass: org.lnson.artemis.rabbit.delegate.MessageDelegate
+      delegateMethod: onMessage
+      queue-arguments: #{}
+        x-dead-letter-exchange: artemis_dlx_exchange_fanout
+        x-message-ttl: 3600000
+        x-max-length: 99999999
+    user-service:
+      queue-name: artemis_user_service_queue
+      queue-durable: true
+      queue-exclusive: false
+      queue-autoDelete: false
+      delegateClass: org.lnson.artemis.rabbit.delegate.MessageDelegate
+      delegateMethod: onMessage
+      queue-arguments: #{}
+        x-dead-letter-exchange: artemis_dlx_exchange_fanout
+        x-message-ttl: 3600000
+        x-max-length: 99999999
+    goods-service:
+      queue-name: artemis_goods_service_queue
+      queue-durable: true
+      queue-exclusive: false
+      queue-autoDelete: false
+      delegateClass: org.lnson.artemis.rabbit.delegate.MessageDelegate
+      delegateMethod: onMessage
+      queue-arguments: #{}
+        x-dead-letter-exchange: artemis_dlx_exchange_fanout
+        x-message-ttl: 3600000
+        x-max-length: 99999999

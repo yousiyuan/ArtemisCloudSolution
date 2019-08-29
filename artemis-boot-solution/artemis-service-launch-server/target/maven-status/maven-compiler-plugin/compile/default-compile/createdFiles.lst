@@ -1,0 +1,10 @@
+org\lnson\artemis\launch\configuration\MybatisConf.class
+org\lnson\artemis\launch\configuration\RabbitConf.class
+org\lnson\artemis\launch\controller\RpcUserController.class
+org\lnson\artemis\launch\configuration\ArtemisServiceLaunchConfiguration.class
+org\lnson\artemis\launch\ArtemisServiceLaunchApplication.class
+org\lnson\artemis\launch\listener\ArtemisServiceLaunchListener.class
+org\lnson\artemis\launch\hystrix\HystrixObservableCommandWrapper.class
+org\lnson\artemis\launch\hystrix\HystrixCommandWrapper.class
+org\lnson\artemis\launch\controller\CloudStreamController.class
+org\lnson\artemis\launch\controller\UserController.class

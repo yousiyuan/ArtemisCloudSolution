@@ -1,0 +1,3 @@
+org\lnson\artemis\model\Department.class
+org\lnson\artemis\service\DepartmentClientService.class
+org\lnson\artemis\service\fallback\DepartmentClientServiceFallback.class

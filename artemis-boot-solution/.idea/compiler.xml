@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="artemis-common" />
+        <module name="artemis-dao" />
+        <module name="artemis-entity" />
+        <module name="artemis-rabbit-service" />
+        <module name="artemis-rabbit-service-impl" />
+        <module name="artemis-service" />
+        <module name="artemis-service-impl" />
+        <module name="artemis-service-launch-server" />
+        <module name="artemis-service-monitor-server" />
+        <module name="artemis-service-regist-center" />
+        <module name="artemis-unified-config-server" />
+        <module name="artemis-unified-config-server-test" />
+        <module name="artemis-unified-gateway-server" />
+        <module name="artemis-web-manage" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="artemis-common" options="-verbose -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar&quot;" />
+      <module name="artemis-dao" options="-verbose -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar&quot;" />
+      <module name="artemis-entity" options="-verbose -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar&quot;" />
+      <module name="artemis-rabbit-service" options="-verbose -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar&quot;" />
+      <module name="artemis-rabbit-service-impl" options="-verbose -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar&quot;" />
+      <module name="artemis-service" options="-verbose -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar&quot;" />
+      <module name="artemis-service-impl" options="-verbose -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar&quot;" />
+      <module name="artemis-service-launch-server" options="-verbose -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar&quot;" />
+      <module name="artemis-service-monitor-server" options="-verbose -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar&quot;" />
+      <module name="artemis-service-regist-center" options="-verbose -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar&quot;" />
+      <module name="artemis-unified-config-server" options="-verbose -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar&quot;" />
+      <module name="artemis-unified-config-server-test" options="-verbose -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar&quot;" />
+      <module name="artemis-unified-gateway-server" options="-verbose -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar&quot;" />
+      <module name="artemis-web-manage" options="-verbose -bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar&quot;" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+org\lnson\artemis\rabbit\service\impl\SampleRabbitServiceImpl.class
+org\lnson\artemis\rabbit\service\impl\AccountRabbitServiceImpl.class
+org\lnson\artemis\service\impl\UserMapperServiceImpl.class
+org\lnson\artemis\rabbit\service\impl\BankRabbitServiceImpl.class
+org\lnson\artemis\rabbit\service\impl\GenerateRabbitServiceImpl.class
+org\lnson\artemis\service\base\impl\BaseMapperServiceImpl.class

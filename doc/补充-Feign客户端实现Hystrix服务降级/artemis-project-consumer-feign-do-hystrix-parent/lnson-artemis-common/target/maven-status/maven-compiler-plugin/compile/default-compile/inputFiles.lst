@@ -1,0 +1,3 @@
+C:\Users\Administrator\IdeaProjects\artemis-project-consumer-feign-do-hystrix-parent\lnson-artemis-common\src\main\java\org\lnson\artemis\service\DepartmentClientService.java
+C:\Users\Administrator\IdeaProjects\artemis-project-consumer-feign-do-hystrix-parent\lnson-artemis-common\src\main\java\org\lnson\artemis\service\fallback\DepartmentClientServiceFallback.java
+C:\Users\Administrator\IdeaProjects\artemis-project-consumer-feign-do-hystrix-parent\lnson-artemis-common\src\main\java\org\lnson\artemis\model\Department.java

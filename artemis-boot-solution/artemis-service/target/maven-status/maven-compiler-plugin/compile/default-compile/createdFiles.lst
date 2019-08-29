@@ -1,0 +1,12 @@
+org\lnson\artemis\rabbit\service\channels\SampleRabbitChannel.class
+org\lnson\artemis\rpc\service\RpcUserService.class
+org\lnson\artemis\service\base\ExampleMapperService.class
+org\lnson\artemis\exception\UnimplementedException.class
+org\lnson\artemis\rabbit\service\channels\AccountRabbitChannel.class
+org\lnson\artemis\service\base\BaseMapperService.class
+org\lnson\artemis\service\UserMapperService.class
+org\lnson\artemis\rpc\service\RpcUserService2.class
+org\lnson\artemis\rabbit\service\RabbitProduceService.class
+org\lnson\artemis\rabbit\service\channels\BankRabbitChannel.class
+org\lnson\artemis\rabbit\service\RabbitConsumerService.class
+org\lnson\artemis\rabbit\service\channels\constant\RabbitChannelConstant.class

@@ -1,0 +1,9 @@
+C:\Users\Administrator\IdeaProjects\artemis-boot-solution\artemis-rabbit-service-impl\src\main\java\org\lnson\artemis\rabbit\service\impl\OrderProduceServiceImpl.java
+C:\Users\Administrator\IdeaProjects\artemis-boot-solution\artemis-rabbit-service-impl\src\main\java\org\lnson\artemis\rabbit\service\impl\RabbitServiceImpl.java
+C:\Users\Administrator\IdeaProjects\artemis-boot-solution\artemis-rabbit-service-impl\src\main\java\org\lnson\artemis\rabbit\service\impl\UserProduceServiceImpl.java
+C:\Users\Administrator\IdeaProjects\artemis-boot-solution\artemis-rabbit-service-impl\src\main\java\org\lnson\artemis\rabbit\consumer\UserServiceConsumer.java
+C:\Users\Administrator\IdeaProjects\artemis-boot-solution\artemis-rabbit-service-impl\src\main\java\org\lnson\artemis\rabbit\delegate\MessageDelegate.java
+C:\Users\Administrator\IdeaProjects\artemis-boot-solution\artemis-rabbit-service-impl\src\main\java\org\lnson\artemis\rabbit\utility\ReplyUtils.java
+C:\Users\Administrator\IdeaProjects\artemis-boot-solution\artemis-rabbit-service-impl\src\main\java\org\lnson\artemis\rabbit\consumer\GoodsServiceConsumer.java
+C:\Users\Administrator\IdeaProjects\artemis-boot-solution\artemis-rabbit-service-impl\src\main\java\org\lnson\artemis\rabbit\service\impl\GoodsProduceServiceImpl.java
+C:\Users\Administrator\IdeaProjects\artemis-boot-solution\artemis-rabbit-service-impl\src\main\java\org\lnson\artemis\rabbit\service\impl\CallbackServiceImpl.java

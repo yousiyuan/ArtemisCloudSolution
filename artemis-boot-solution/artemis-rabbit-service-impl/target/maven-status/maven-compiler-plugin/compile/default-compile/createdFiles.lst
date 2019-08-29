@@ -1,0 +1,11 @@
+org\lnson\artemis\rabbit\consumer\GoodsServiceConsumer.class
+org\lnson\artemis\rabbit\service\impl\GoodsProduceServiceImpl.class
+org\lnson\artemis\rabbit\service\impl\RabbitServiceImpl$1.class
+org\lnson\artemis\rabbit\delegate\MessageDelegate.class
+org\lnson\artemis\rabbit\service\impl\RabbitServiceImpl.class
+org\lnson\artemis\rabbit\utility\ReplyUtils.class
+org\lnson\artemis\rabbit\consumer\UserServiceConsumer.class
+org\lnson\artemis\rabbit\service\impl\OrderProduceServiceImpl.class
+org\lnson\artemis\rabbit\service\impl\RabbitServiceImpl$2.class
+org\lnson\artemis\rabbit\service\impl\CallbackServiceImpl.class
+org\lnson\artemis\rabbit\service\impl\UserProduceServiceImpl.class

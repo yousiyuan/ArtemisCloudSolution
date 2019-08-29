@@ -1,0 +1,5 @@
+org\lnson\artemis\rabbit\service\CallbackService.class
+org\lnson\artemis\rabbit\service\RabbitService.class
+org\lnson\artemis\rabbit\service\UserProduceService.class
+org\lnson\artemis\rabbit\service\OrderProduceService.class
+org\lnson\artemis\rabbit\service\GoodsProduceService.class

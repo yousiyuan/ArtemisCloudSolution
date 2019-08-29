@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/artemis-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/artemis-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/artemis-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/artemis-rabbit-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/artemis-rabbit-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/artemis-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/artemis-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/artemis-service-launch-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/artemis-service-monitor-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/artemis-service-regist-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/artemis-unified-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/artemis-unified-config-server-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/artemis-unified-gateway-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/artemis-web-manage" charset="UTF-8" />
+  </component>
+</project>

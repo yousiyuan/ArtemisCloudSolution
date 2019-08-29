@@ -1,0 +1,1279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7226713-a33d-4cb8-99a7-76e66ac0e684" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/artemis-common/target/" />
+    <ignored path="$PROJECT_DIR$/artemis-dao/target/" />
+    <ignored path="$PROJECT_DIR$/artemis-service/target/" />
+    <ignored path="$PROJECT_DIR$/artemis-service-impl/target/" />
+    <ignored path="$PROJECT_DIR$/artemis-entity/target/" />
+    <ignored path="$PROJECT_DIR$/artemis-service-launch-server/target/" />
+    <ignored path="$PROJECT_DIR$/artemis-service-regist-center/target/" />
+    <ignored path="$PROJECT_DIR$/artemis-web-manage/target/" />
+    <ignored path="$PROJECT_DIR$/artemis-rabbit-service/target/" />
+    <ignored path="$PROJECT_DIR$/artemis-rabbit-service-impl/target/" />
+    <ignored path="$PROJECT_DIR$/artemis-unified-config-server/target/" />
+    <ignored path="$PROJECT_DIR$/artemis-service-monitor-server/target/" />
+    <ignored path="$PROJECT_DIR$/artemis-unified-gateway-server/target/" />
+    <ignored path="$PROJECT_DIR$/artemis-unified-config-server-test/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/artemis-service-launch-server/src/main/java/org/lnson/artemis/launch/controller/CloudStreamController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="28" column="25" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/artemis-service-launch-server/src/main/java/org/lnson/artemis/launch/controller/RpcUserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/artemis-service-launch-server/src/main/java/org/lnson/artemis/launch/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/artemis-unified-gateway-server/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>o.s.cloud.commons.util.InetUtils</find>
+      <find>Cannot determine local hostname</find>
+      <find>.com:</find>
+      <find>http://eureka</find>
+      <find>eureka</find>
+      <find>2169</find>
+      <find>artemis_order_service_queue</find>
+      <find>artemis_user_service_queue</find>
+      <find>RabbitConfig</find>
+      <find>onMessage</find>
+      <find>this.confirmCallback</find>
+      <find>method</find>
+      <find>beanDefinition</find>
+      <find>messageListener</find>
+      <find>RabbitListener</find>
+      <find>artemis-service-launch-server</find>
+      <find>default</find>
+      <find>spring-cloud-starter-config</find>
+      <find>spring-cloud-starter-stream-rabbit</find>
+      <find>delegate</find>
+      <find>confirmCallback</find>
+      <find>BankRabbitServiceImpl</find>
+      <find>bankOutputChannel</find>
+      <find>public final static</find>
+      <find>1314</find>
+      <find>8989</find>
+      <find>RateLimitException</find>
+      <find>error</find>
+      <find>route</find>
+      <find>No message available</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>rabbitArguments.</replace>
+      <replace>select</replace>
+      <replace>T</replace>
+      <replace>an unimplemented method was invoked</replace>
+      <replace>T record,Object... arguments</replace>
+      <replace>Class&lt;? extends T&gt; clazz</replace>
+      <replace>Class&lt;? extends User&gt; clazz,</replace>
+      <replace>DataResult</replace>
+      <replace>rabbitConfigArgs.</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Administrator\IdeaProjects\artemis-boot-solution\artemis-unified-config-server</dir>
+      <dir>C:\Users\Administrator\IdeaProjects\artemis-boot-solution</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/AccountRabbitStreamService.java" />
+        <option value="$PROJECT_DIR$/artemis-service-impl/src/main/java/org/lnson/artemis/rabbit/service/impl/AccountRabbitStreamServiceImpl.java" />
+        <option value="$PROJECT_DIR$/artemis-service-impl/src/main/java/org/lnson/artemis/rabbit/service/impl/BankRabbitStreamServiceImpl.java" />
+        <option value="$PROJECT_DIR$/artemis-service-impl/src/main/java/org/lnson/artemis/rabbit/service/impl/DefaultCloudStreamServiceImpl.java" />
+        <option value="$PROJECT_DIR$/artemis-service-impl/src/main/java/org/lnson/artemis/rabbit/service/impl/base/GenerateProcessorImpl.java" />
+        <option value="$PROJECT_DIR$/artemis-service-impl/src/main/java/org/lnson/artemis/rabbit/service/impl/base/DefaultCloudStreamServiceImpl.java" />
+        <option value="$PROJECT_DIR$/artemis-service/pom.xml" />
+        <option value="$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/base/GenerateProcessor.java" />
+        <option value="$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/AccountCloudStreamService.java" />
+        <option value="$PROJECT_DIR$/artemis-entity/src/main/java/org/lnson/artemis/rabbit/channel/ChannelProperties.java" />
+        <option value="$PROJECT_DIR$/artemis-entity/src/main/java/org/lnson/artemis/rabbit/channel/ChannelArgument.java" />
+        <option value="$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/AccountServiceChannel.java" />
+        <option value="$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/channel/AccountServiceChannel.java" />
+        <option value="$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/channel/BankServiceChannel.java" />
+        <option value="$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/base/RabbitMessageService.java" />
+        <option value="$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/RabbitMessageService.java" />
+        <option value="$PROJECT_DIR$/artemis-service-impl/src/main/java/org/lnson/artemis/rabbit/service/impl/AccountCloudStreamServiceImpl.java" />
+        <option value="$PROJECT_DIR$/artemis-service-impl/src/main/java/org/lnson/artemis/rabbit/service/impl/BankCloudStreamServiceImpl.java" />
+        <option value="$PROJECT_DIR$/artemis-service-impl/src/main/java/org/lnson/artemis/rabbit/service/impl/base/GenerateCloudStreamServiceImpl.java" />
+        <option value="$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/channel/AccountRabbitChannel.java" />
+        <option value="$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/channel/BankRabbitChannel.java" />
+        <option value="$PROJECT_DIR$/artemis-service-impl/src/main/java/org/lnson/artemis/rabbit/service/impl/base/GenerateRabbitServiceImpl.java" />
+        <option value="$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/channels/RabbitChannelConstant.java" />
+        <option value="$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/channels/AccountRabbitChannel.java" />
+        <option value="$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/channels/BankRabbitChannel.java" />
+        <option value="$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/RabbitDataForwardService.java" />
+        <option value="$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/RabbitProduceService.java" />
+        <option value="$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/channels/SampleRabbitChannel.java" />
+        <option value="$PROJECT_DIR$/artemis-service-impl/src/main/java/org/lnson/artemis/rabbit/service/impl/SampleRabbitServiceImpl.java" />
+        <option value="$PROJECT_DIR$/artemis-service-launch-server/src/main/java/org/lnson/artemis/launch/controller/CloudStreamController.java" />
+        <option value="$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/channels/GenerateAckRabbitChannel.java" />
+        <option value="$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/channels/constant/RabbitChannelConstant.java" />
+        <option value="$PROJECT_DIR$/artemis-service-launch-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/artemis-service-impl/src/main/java/org/lnson/artemis/rabbit/service/impl/GenerateRabbitServiceImpl.java" />
+        <option value="$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/RabbitConsumerService.java" />
+        <option value="$PROJECT_DIR$/artemis-service-impl/src/main/java/org/lnson/artemis/rabbit/service/impl/BankRabbitServiceImpl.java" />
+        <option value="$PROJECT_DIR$/artemis-service-impl/src/main/java/org/lnson/artemis/rabbit/service/impl/AccountRabbitServiceImpl.java" />
+        <option value="$PROJECT_DIR$/artemis-unified-gateway-server/pom.xml" />
+        <option value="$PROJECT_DIR$/artemis-unified-config-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/artemis-unified-config-server/bus-refresh.bat" />
+        <option value="$PROJECT_DIR$/artemis-unified-gateway-server/src/main/java/org/artemis/gateway/server/filters/ArtemisZuulFallbackHandler.java" />
+        <option value="$PROJECT_DIR$/artemis-unified-gateway-server/src/main/java/org/artemis/gateway/server/ArtemisGatewayServerApplication.java" />
+        <option value="$PROJECT_DIR$/artemis-unified-gateway-server/src/main/java/org/artemis/gateway/server/filters/RateLimitFilter.java" />
+        <option value="$PROJECT_DIR$/artemis-unified-gateway-server/src/main/java/org/artemis/gateway/server/filters/ArtemisRateLimitZuulFilter.java" />
+        <option value="$PROJECT_DIR$/artemis-unified-gateway-server/src/main/java/org/artemis/gateway/server/degradation/ArtemisZuulFallbackHandler.java" />
+        <option value="$PROJECT_DIR$/artemis-unified-gateway-server/src/main/java/org/artemis/gateway/server/filters/ArtemisErrorZuulFilter.java" />
+        <option value="$PROJECT_DIR$/artemis-unified-gateway-server/src/main/java/org/artemis/gateway/server/configuration/ArtemisGatewayConfiguration.java" />
+        <option value="$PROJECT_DIR$/artemis-unified-gateway-server/src/main/java/org/artemis/gateway/server/filters/ArtemisResponseZuulFilter.java" />
+        <option value="$PROJECT_DIR$/artemis-unified-gateway-server/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/artemis-unified-gateway-server/src/main/java/org/artemis/gateway/server/filters/ArtemisTokenZuulFilter.java" />
+        <option value="$PROJECT_DIR$/artemis-unified-gateway-server/src/main/resources/application.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/javawebhost/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="C:\javawebhost\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
+    <option name="width" value="1886" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="artemis-boot-solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artemis-boot-solution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artemis-boot-solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artemis-boot-solution" type="462c0819:PsiDirectoryNode" />
+              <item name="artemis-unified-gateway-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artemis-boot-solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artemis-boot-solution" type="462c0819:PsiDirectoryNode" />
+              <item name="artemis-unified-gateway-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artemis-boot-solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artemis-boot-solution" type="462c0819:PsiDirectoryNode" />
+              <item name="artemis-unified-gateway-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artemis-boot-solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artemis-boot-solution" type="462c0819:PsiDirectoryNode" />
+              <item name="artemis-unified-gateway-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567072329686" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../artemis-zuul-parent" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.lnson.artemis.utility" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.artemis.dashboard.monitor" />
+      <recent name="org.artemis.config.server.test.controller" />
+      <recent name="org.artemis.config.server.test" />
+      <recent name="org.lnson.artemis.web.listener" />
+      <recent name="org.lnson.artemis.web" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\artemis-boot-solution\artemis-unified-gateway-server\src\main\java\org\artemis\gateway\server\filters" />
+      <recent name="C:\Users\Administrator\IdeaProjects\artemis-boot-solution\artemis-service-monitor-server\src\main\resources" />
+      <recent name="C:\Users\Administrator\IdeaProjects\artemis-boot-solution\artemis-service-regist-center\src\main\resources" />
+      <recent name="C:\Users\Administrator\IdeaProjects\artemis-boot-solution\artemis-unified-config-server-test\src\main\resources" />
+      <recent name="C:\Users\Administrator\IdeaProjects\artemis-boot-solution\artemis-unified-config-server\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.21635151" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.ArtemisGatewayServerApplication">
+    <configuration name="ArtemisConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="artemis-unified-config-server-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.artemis.config.server.test.ArtemisConfigClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArtemisConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="artemis-unified-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.artemis.config.server.ArtemisConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArtemisDashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="artemis-service-monitor-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.artemis.dashboard.monitor.ArtemisDashboardApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArtemisGatewayServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="artemis-unified-gateway-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.artemis.gateway.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.artemis.gateway.server.ArtemisGatewayServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArtemisServiceLaunchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="artemis-service-launch-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.lnson.artemis.launch.ArtemisServiceLaunchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArtemisServiceRegistApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="artemis-service-regist-center" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.lnson.artemis.regist.ArtemisServiceRegistApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArtemisWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="artemis-web-manage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.lnson.artemis.web.ArtemisWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat9.0.0.M26" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M26" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="C:\Program Files\Java\jdk1.8.0_162\jre">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <file path="%IDEA_RUN:TOMCAT_HOME%/webapps">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Default_(Template)_Project" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="2788" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="2788" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ArtemisServiceLaunchApplication" />
+      <item itemvalue="Spring Boot.ArtemisServiceRegistApplication" />
+      <item itemvalue="Spring Boot.ArtemisWebApplication" />
+      <item itemvalue="Spring Boot.ArtemisConfigClientApplication" />
+      <item itemvalue="Spring Boot.ArtemisConfigServerApplication" />
+      <item itemvalue="Spring Boot.ArtemisDashboardApplication" />
+      <item itemvalue="Tomcat Server.Tomcat9.0.0.M26" />
+      <item itemvalue="Spring Boot.ArtemisGatewayServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ArtemisGatewayServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7226713-a33d-4cb8-99a7-76e66ac0e684" name="Default Changelist" comment="" />
+      <created>1566329741537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566329741537</updated>
+      <workItem from="1566329744163" duration="571000" />
+      <workItem from="1566330322259" duration="1791000" />
+      <workItem from="1566332122836" duration="165000" />
+      <workItem from="1566332294300" duration="16015000" />
+      <workItem from="1566380683842" duration="6385000" />
+      <workItem from="1566388117374" duration="1432000" />
+      <workItem from="1566389557385" duration="13866000" />
+      <workItem from="1566403447182" duration="6572000" />
+      <workItem from="1566410032544" duration="112000" />
+      <workItem from="1566410152016" duration="139000" />
+      <workItem from="1566410330644" duration="11070000" />
+      <workItem from="1566421424547" duration="2626000" />
+      <workItem from="1566424065870" duration="1267000" />
+      <workItem from="1566425346718" duration="1187000" />
+      <workItem from="1566426557530" duration="18553000" />
+      <workItem from="1566448911012" duration="176292000" />
+      <workItem from="1566749478965" duration="244000" />
+      <workItem from="1566754447979" duration="8952000" />
+      <workItem from="1566777064449" duration="3163000" />
+      <workItem from="1566829882837" duration="3956000" />
+      <workItem from="1566869821707" duration="2980000" />
+      <workItem from="1566872810818" duration="82101000" />
+      <workItem from="1566981182661" duration="65922000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ArtemisWebApplicationTest_rabbitConfigReadTest4 - 2019.08.24 at 04h 26m 55s.xml">
+      <configuration name="ArtemisWebApplicationTest.rabbitConfigReadTest4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArtemisWebApplicationTest - 2019.08.24 at 04h 30m 17s.xml">
+      <configuration name="ArtemisWebApplicationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArtemisWebApplicationTest_rabbitConfigReadTest4 - 2019.08.24 at 04h 50m 02s.xml">
+      <configuration name="ArtemisWebApplicationTest.rabbitConfigReadTest4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArtemisWebApplicationTest_rabbitConfigReadTest4 - 2019.08.24 at 04h 59m 30s.xml">
+      <configuration name="ArtemisWebApplicationTest.rabbitConfigReadTest4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArtemisWebApplicationTest_rabbitConfigReadTest5 - 2019.08.24 at 06h 56m 58s.xml">
+      <configuration name="ArtemisWebApplicationTest.rabbitConfigReadTest5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArtemisWebApplicationTest_rabbitConfigReadTest4 - 2019.08.24 at 07h 14m 20s.xml">
+      <configuration name="ArtemisWebApplicationTest.rabbitConfigReadTest4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArtemisWebApplicationTest_rabbitConfigReadTest1 - 2019.08.24 at 07h 47m 37s.xml">
+      <configuration name="ArtemisWebApplicationTest.rabbitConfigReadTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArtemisWebApplicationTest_rabbitConfigReadTest1 - 2019.08.24 at 07h 48m 49s.xml">
+      <configuration name="ArtemisWebApplicationTest.rabbitConfigReadTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArtemisWebApplicationTest - 2019.08.24 at 07h 50m 16s.xml">
+      <configuration name="ArtemisWebApplicationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArtemisWebApplicationTest_rabbitConfigReadTest2 - 2019.08.25 at 10h 12m 11s.xml">
+      <configuration name="ArtemisWebApplicationTest.rabbitConfigReadTest2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="425361000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="0" width="1886" height="1030" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21358159" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3322185" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32998884" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32998884" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.32998884" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.32998884" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32998884" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run Dashboard" order="16" visible="true" weight="0.35897437" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24972618" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.18893757" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21139102" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3322185" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32998884" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32998884" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.32998884" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.32998884" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32998884" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run Dashboard" order="16" visible="true" weight="0.35897437" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.18893757" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.1.8.RELEASE/spring-rabbit-2.1.8.RELEASE.jar!/org/springframework/amqp/rabbit/listener/SimpleMessageListenerContainer.class</url>
+          <line>246</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.1.8.RELEASE/spring-rabbit-2.1.8.RELEASE.jar!/org/springframework/amqp/rabbit/listener/adapter/MessageListenerAdapter.class</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-amqp/5.1.7.RELEASE/spring-integration-amqp-5.1.7.RELEASE.jar!/org/springframework/integration/amqp/inbound/AmqpInboundGateway.class</url>
+          <line>160</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-amqp/5.1.7.RELEASE/spring-integration-amqp-5.1.7.RELEASE.jar!/org/springframework/integration/amqp/inbound/AmqpInboundChannelAdapter.class</url>
+          <line>130</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/artemis-rabbit-service-impl/src/main/java/org/lnson/artemis/rabbit/delegate/MessageDelegate.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.1.8.RELEASE/spring-rabbit-2.1.8.RELEASE.jar!/org/springframework/amqp/rabbit/listener/adapter/MessagingMessageListenerAdapter.class</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="javaConstructor.getParameterTypes()[0]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>value.getClass().equals(Integer.class)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>value=3</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>applicationContext.getBean(RabbitAdmin.class)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ExchangeTypeEnum.DIRECT_EXCHANGE.getExchangeType()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ExchangeTypeEnum.DIRECT_EXCHANGE.toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-core/5.1.7.RELEASE/spring-integration-core-5.1.7.RELEASE.jar!/org/springframework/integration/annotation/ServiceActivator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/channels/GenerateAckRabbitChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/channels/constant/RabbitChannelConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/channels/AccountRabbitChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/channels/BankRabbitChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/channels/SampleRabbitChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/RabbitProduceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-service-impl/src/main/java/org/lnson/artemis/rabbit/service/impl/SampleRabbitServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-service-impl/src/main/java/org/lnson/artemis/rabbit/service/impl/GenerateRabbitServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-service/src/main/java/org/lnson/artemis/rabbit/service/RabbitConsumerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-service-impl/src/main/java/org/lnson/artemis/rabbit/service/impl/BankRabbitServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="43" column="58" lean-forward="true" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-service-impl/src/main/java/org/lnson/artemis/rabbit/service/impl/AccountRabbitServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-service-regist-center/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.22/tomcat-embed-core-9.0.22.jar!/javax/servlet/http/Cookie.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="e#1200#1201#0" expanded="true" />
+            <element signature="e#1236#1237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-unified-config-server/src/main/java/org/artemis/config/server/ArtemisConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-unified-config-server/bus-refresh.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-service-launch-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-service-launch-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="140" lean-forward="true" selection-start-line="140" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-web-manage/src/main/java/org/lnson/artemis/web/controller/ManageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-web-manage/src/main/java/org/lnson/artemis/web/controller/ManageController2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-web-manage/src/main/java/org/lnson/artemis/web/controller/RabbitController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-web-manage/src/main/java/org/lnson/artemis/web/listener/ArtemisContextRefreshedEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-web-manage/src/main/java/org/lnson/artemis/web/listener/ArtemisApplicationEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-web-manage/src/main/java/org/lnson/artemis/web/listener/ArtemisWebServerListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-common/src/main/java/org/lnson/artemis/common/InetCommon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="83" lean-forward="true" selection-start-line="11" selection-start-column="83" selection-end-line="11" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.1.2.RELEASE/spring-cloud-netflix-zuul-2.1.2.RELEASE.jar!/org/springframework/cloud/netflix/zuul/filters/ZuulProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="133" column="5" lean-forward="true" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
+          <folding>
+            <element signature="e#4780#4781#0" expanded="true" />
+            <element signature="e#4822#4823#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-unified-gateway-server/src/main/java/org/artemis/gateway/server/filters/RateLimitException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/16.0/guava-16.0.jar!/com/google/common/util/concurrent/RateLimiter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.1.2.RELEASE/spring-cloud-netflix-zuul-2.1.2.RELEASE.jar!/org/springframework/cloud/netflix/zuul/filters/support/FilterConstants.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="30" column="41" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-unified-gateway-server/src/main/java/org/artemis/gateway/server/configuration/ArtemisGatewayConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-unified-gateway-server/src/main/java/org/artemis/gateway/server/degradation/ArtemisZuulFallbackHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#ArtemisZuulFallbackHandler#0" />
+            <element signature="docComment;method#getRoute#0;class#ArtemisZuulFallbackHandler#0" />
+            <element signature="method#fallbackResponse#0;class#ArtemisZuulFallbackHandler#0" />
+            <element signature="e#950#1081#1" />
+            <element signature="method#fallbackResponse#1;class#ArtemisZuulFallbackHandler#0" />
+            <element signature="class#1212:2142" />
+            <element signature="method#getStatusCode#0;class#1212:2142" />
+            <element signature="method#getRawStatusCode#0;class#1212:2142" />
+            <element signature="method#getStatusText#0;class#1212:2142" />
+            <element signature="method#close#0;class#1212:2142" />
+            <element signature="method#getBody#0;class#1212:2142" />
+            <element signature="method#getHeaders#0;class#1212:2142" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-unified-gateway-server/src/main/java/org/artemis/gateway/server/filters/ArtemisErrorZuulFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="method#run#0;class#ArtemisErrorZuulFilter#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-unified-gateway-server/src/main/java/org/artemis/gateway/server/filters/ArtemisRateLimitZuulFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="docComment;class#ArtemisRateLimitZuulFilter#0" />
+            <element signature="docComment;field#RATE_LIMITER#0;class#ArtemisRateLimitZuulFilter#0" />
+            <element signature="docComment;method#filterType#0;class#ArtemisRateLimitZuulFilter#0" />
+            <element signature="docComment;method#filterOrder#0;class#ArtemisRateLimitZuulFilter#0" />
+            <element signature="method#filterOrder#0;class#ArtemisRateLimitZuulFilter#0" />
+            <element signature="docComment;method#shouldFilter#0;class#ArtemisRateLimitZuulFilter#0" />
+            <element signature="docComment;method#run#0;class#ArtemisRateLimitZuulFilter#0" />
+            <element signature="method#run#0;class#ArtemisRateLimitZuulFilter#0" />
+            <element signature="e#1490#1543#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-unified-gateway-server/src/main/java/org/artemis/gateway/server/filters/ArtemisResponseZuulFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="13" column="59" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+          <folding>
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="method#run#0;class#ArtemisResponseZuulFilter#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.9.RELEASE/spring-web-5.1.9.RELEASE.jar!/org/springframework/web/client/RestTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="361" selection-start-line="361" selection-end-line="361" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-client/2.1.3.RELEASE/spring-cloud-config-client-2.1.3.RELEASE.jar!/org/springframework/cloud/config/client/ConfigClientProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="32" column="65" lean-forward="true" selection-start-line="32" selection-start-column="65" selection-end-line="32" selection-end-column="65" />
+          <folding>
+            <element signature="e#2224#2225#0" expanded="true" />
+            <element signature="e#2254#2255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-unified-gateway-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-client/2.1.3.RELEASE/spring-cloud-config-client-2.1.3.RELEASE.jar!/org/springframework/cloud/config/client/ConfigServicePropertySourceLocator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.22/tomcat-embed-core-9.0.22.jar!/javax/servlet/http/HttpServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="74" column="13" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-unified-gateway-server/src/main/java/org/artemis/gateway/server/filters/ArtemisTokenZuulFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#1599#1644#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-unified-config-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-unified-config-server-test/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-unified-config-server-test/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-web-manage/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-unified-config-server-test/src/main/java/org/artemis/config/server/test/ArtemisConfigClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-unified-gateway-server/src/main/java/org/artemis/gateway/server/ArtemisGatewayServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-unified-gateway-server/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-service-launch-server/src/main/java/org/lnson/artemis/launch/controller/RpcUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-service-launch-server/src/main/java/org/lnson/artemis/launch/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-service-launch-server/src/main/java/org/lnson/artemis/launch/controller/CloudStreamController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artemis-unified-gateway-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>artemis-boot-solution</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="clean compile package" />
+    <option value="clean" />
+    <option value="clean compile" />
+    <option value="clean compile spring-boot:run" />
+  </component>
+</project>

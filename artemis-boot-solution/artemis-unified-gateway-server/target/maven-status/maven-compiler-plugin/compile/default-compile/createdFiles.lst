@@ -1,0 +1,8 @@
+org\artemis\gateway\server\filters\ArtemisTokenZuulFilter.class
+org\artemis\gateway\server\filters\ArtemisResponseZuulFilter.class
+org\artemis\gateway\server\degradation\ArtemisZuulFallbackHandler$1.class
+org\artemis\gateway\server\degradation\ArtemisZuulFallbackHandler.class
+org\artemis\gateway\server\filters\ArtemisErrorZuulFilter.class
+org\artemis\gateway\server\configuration\ArtemisGatewayConfiguration.class
+org\artemis\gateway\server\filters\ArtemisRateLimitZuulFilter.class
+org\artemis\gateway\server\ArtemisGatewayServerApplication.class

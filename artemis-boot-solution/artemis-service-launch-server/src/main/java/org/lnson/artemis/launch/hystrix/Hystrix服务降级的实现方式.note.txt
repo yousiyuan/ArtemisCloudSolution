@@ -1,0 +1,29 @@
+
+1. 使用@HystrixCommand注解实现服务降级
+使用注解可以最小程度地侵入代码，可以快速让原来的功能支持服务降级，使用时仅需在要进行服务降级处理的方法上增加@HystrixCommand注解即可，
+并通过fallbackMethod属性设置该方法在降级处理时所使用的方法，然后在降级方法中实现服务降级逻辑处理，
+需要注意：通过fallbackMethod所指定的方法要与原方法具有相同的方法签名，否则会降级失败。
+
+
+@HystrixCommand注解说明如下：
+
+groupKey:  设置HystrixCommand分组的名称
+commandKey:  设置HystrixCommand的名称
+threadPollKey:  设置HystrixCommand执行线程池的名称
+fallbackMethod:  设置HystrixCommand服务降级所使用的方法名称，注意该方法需要与原方法定义在同一个类中，并且方法签名也要一致
+commandProperties:  设置HystrixCommand属性，如：断路器失败百分比、断路器时间容器大小等
+ignoreException:  设置HystrixCommand执行服务降级处理时需要忽略的异常，当出现异常时不会执行服务降级处理。
+observableExecutionMode:  设置HystrixCommand执行的方式
+defaultFallback:  设置HystrixCommand默认的服务降级处理方法，如果同时设定了fallbackMethod，会优先使用fallbackMethod所指定的方法，需要注意的是defaultFallback该属性所指定的方法没有参数，需要注意返回值与原方法返回值的兼容性
+
+
+2. 继承HystrixCommand实现服务降级
+除了使用注解方式来完成服务降级实现之外，Hystrix还提供了两个对象来支持服务降级实现处理：HystrixCommand和HystrixObserableCommand，
+HystrixObserableCommand用于所依赖服务返回多个操作结果的时候，
+在实现服务降级时，如果是继承HystrixCommand则需要实现getFallback()方法，
+如果是继承HystrixObserableCommand则需要实现resumeWithFallback()方法
+
+
+
+具体请参考链接内容
+https://www.jianshu.com/p/db3896a6d914

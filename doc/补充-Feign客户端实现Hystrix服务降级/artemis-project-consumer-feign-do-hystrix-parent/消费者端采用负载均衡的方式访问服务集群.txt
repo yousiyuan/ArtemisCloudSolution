@@ -1,0 +1,3 @@
+多次访问这个测试url，通过观察数据库的切换，证明已经实现了负载均衡
+
+http://localhost/consumer/dept/list

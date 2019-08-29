@@ -1,0 +1,8 @@
+org\lnson\artemis\rabbit\config\RabbitBinding.class
+org\lnson\artemis\entity\User.class
+org\lnson\artemis\rabbit\config\RabbitExchange.class
+org\lnson\artemis\model\DataResult.class
+org\lnson\artemis\rabbit\enums\ExchangeTypeEnum.class
+org\lnson\artemis\rabbit\enums\RoutingKeyEnum.class
+org\lnson\artemis\rabbit\config\RabbitConfigArgument.class
+org\lnson\artemis\rabbit\config\RabbitQueue.class

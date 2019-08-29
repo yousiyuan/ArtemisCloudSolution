@@ -1,0 +1,10 @@
+因为整合了WebHooks，所以，这个文件test.txt用于测试 SpringCloud Config Server 服务器是否能够被外网访问。
+
+例如，
+http://2pwa53.natappfree.cc/test.txt 通过外网能够被找到，才能证明 github 或者 码云 上面远程仓库的 WebHooks
+能够通过
+POST → http://2pwa53.natappfree.cc/monitor
+告知 SpringCloud Config Server（统一配置中心服务端） 要去 远程 github仓库 或者 码云仓库 获取最新的环境配置信息，
+并且 SpringCloud Config Server bus 会发送 通知 到 消息总线(它其实就是一个消息队列)，
+所有的微服务（也就是 统一配置中心客户端 SpringCloud Config Client）收到来自 消息总线 的通知后，会通过 统一配置中心服务端
+到 远程仓库 获取最新的 环境配置信息。

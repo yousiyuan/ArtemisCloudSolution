@@ -1,0 +1,3 @@
+org\lnson\artemis\regist\listener\ArtemisServiceRegistListener.class
+org\lnson\artemis\regist\ArtemisServiceRegistApplication.class
+org\lnson\artemis\regist\configuration\ArtemisServiceRegistConfiguration.class

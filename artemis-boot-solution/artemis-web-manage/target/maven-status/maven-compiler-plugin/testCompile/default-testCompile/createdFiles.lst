@@ -1,0 +1,3 @@
+org\lnson\artemis\web\test\ArtemisWebApplicationTest.class
+org\lnson\artemis\web\test\RabbitAdminTest.class
+org\lnson\artemis\web\test\RabbitTest.class

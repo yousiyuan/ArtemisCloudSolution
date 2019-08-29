@@ -1,0 +1,6 @@
+org\artemis\config\server\test\controller\RemoteConfigReadController.class
+org\artemis\config\server\test\configuration\ArtemisConfigClientConfiguration.class
+org\artemis\config\server\test\configuration\TestReadRemoteConfig.class
+org\artemis\config\server\test\controller\ConfigClientController.class
+org\artemis\config\server\test\controller\ConfigClientController$1.class
+org\artemis\config\server\test\ArtemisConfigClientApplication.class

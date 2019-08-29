@@ -1,0 +1,39 @@
+package org.lnson.artemis.rabbit.delegate;
+
+import java.nio.charset.StandardCharsets;
+import java.util.Map;
+
+/**
+ * 使用消息转换器接收消息（但是，这样无法手动签收消息）
+ **/
+public class MessageDelegate {
+
+    //
+    // default method for queue message
+    //
+    public void handleMessage(byte[] body) {
+        System.err.println("default method ===>> message content ：" + new String(body, StandardCharsets.UTF_8));
+    }
+
+    //
+    // byte array method for queue message
+    //
+    public void consumeMessage(byte[] messageBody) {
+        System.err.println("byte array method ===>> message content ：" + new String(messageBody, StandardCharsets.UTF_8));
+    }
+
+    //
+    // String method for queue message
+    //
+    public void consumeMessage(String messageBody) {
+        System.err.println("String method ===>> message content ：" + messageBody);
+    }
+
+    //
+    // map method for queue message
+    //
+    public void consumeMessage(Map<String, Object> messageBody) {
+        System.err.println("map method ===>> " + messageBody);
+    }
+
+}
