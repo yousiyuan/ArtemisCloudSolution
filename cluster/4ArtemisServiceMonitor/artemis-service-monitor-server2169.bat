@@ -1,0 +1,2 @@
+"C:\Program Files\Java\jdk1.8.0_162\bin\java" -jar "E:\cluster\4ArtemisServiceMonitor\artemis-service-monitor-server.jar" --spring.config.location="E:\cluster\4ArtemisServiceMonitor\application2169.properties"
+pause

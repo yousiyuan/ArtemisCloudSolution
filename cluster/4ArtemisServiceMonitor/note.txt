@@ -1,0 +1,8 @@
+
+打开监控面板
+http://localhost:2169/hystrix
+
+监控指定的微服务访问情况
+http://localhost:9198/actuator/hystrix.stream
+http://localhost:9199/actuator/hystrix.stream
+http://localhost:9200/actuator/hystrix.stream

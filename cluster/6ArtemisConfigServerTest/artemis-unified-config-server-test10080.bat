@@ -1,0 +1,2 @@
+"C:\Program Files\Java\jdk1.8.0_162\bin\java" -jar "E:\cluster\6ArtemisConfigServerTest\artemis-unified-config-server-test10080.jar" --spring.config.location="E:\cluster\6ArtemisConfigServerTest\application10080.properties"
+pause

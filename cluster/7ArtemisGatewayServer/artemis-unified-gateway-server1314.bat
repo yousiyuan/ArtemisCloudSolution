@@ -1,0 +1,2 @@
+"C:\Program Files\Java\jdk1.8.0_162\bin\java" -jar "E:\cluster\7ArtemisGatewayServer\artemis-unified-gateway-server1314.jar" --spring.config.location="E:\cluster\7ArtemisGatewayServer\application1314.properties"
+pause

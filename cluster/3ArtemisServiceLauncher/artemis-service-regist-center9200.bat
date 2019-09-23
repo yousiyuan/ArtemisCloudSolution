@@ -1,0 +1,2 @@
+"C:\Program Files\Java\jdk1.8.0_162\bin\java" -jar "E:\cluster\3ArtemisServiceLauncher\artemis-service-launch-server.jar" --spring.config.location="E:\cluster\3ArtemisServiceLauncher\application9200.properties"
+pause
